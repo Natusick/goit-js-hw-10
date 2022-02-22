@@ -18,3 +18,30 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.country-name{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-direction: start;
+}
+
+.country-list{
+  padding-left: 0px;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: start;
+}
+
+.country-title{
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 10px;  
+}
+
+.card-title{
+  font-size: 30px;
+  padding-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
